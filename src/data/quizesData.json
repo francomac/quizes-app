@@ -9,7 +9,30 @@
       "name": "Leanne Graham",
       "email": "leann.graham@gmail.com",
       "phone": "1-770-736-8031 x56442"
-    }
+    },
+    "questionsHistory": [
+      {
+        "id": 1,
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+      },
+      {
+        "id": 2,
+        "question": "What is the capital of USA?",
+        "answer": "Washington DC"
+      },
+      {
+        "id": 3,
+        "question": "What is the capital of UK?",
+        "answer": "London"
+      },
+      {
+        "id": 4,
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+      }
+    ],
+    "questionsSelected": [1]
   },
   {
     "id": 2,
@@ -21,7 +44,30 @@
       "name": "Leanne Graham",
       "email": "leann.graham@gmail.com",
       "phone": "1-770-736-8031 x56442"
-    }
+    },
+    "questionsHistory": [
+      {
+        "id": 1,
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+      },
+      {
+        "id": 2,
+        "question": "What is the capital of USA?",
+        "answer": "Washington DC"
+      },
+      {
+        "id": 3,
+        "question": "What is the capital of UK?",
+        "answer": "London"
+      },
+      {
+        "id": 4,
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+      }
+    ],
+    "questionsSelected": [1, 4]
   },
   {
     "id": 3,
@@ -33,7 +79,30 @@
       "name": "Leanne Graham 1st",
       "email": "leann.graham@gmail.com",
       "phone": "1-770-666-8031 x56442"
-    }
+    },
+    "questionsHistory": [
+      {
+        "id": 1,
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+      },
+      {
+        "id": 2,
+        "question": "What is the capital of USA?",
+        "answer": "Washington DC"
+      },
+      {
+        "id": 3,
+        "question": "What is the capital of UK?",
+        "answer": "London"
+      },
+      {
+        "id": 4,
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+      }
+    ],
+    "questionsSelected": [4]
   },
   {
     "id": 4,
@@ -45,7 +114,30 @@
       "name": "Leanne Graham 2nd",
       "email": "leann.graham@gmail.com",
       "phone": "1-770-555-8031 x56442"
-    }
+    },
+    "questionsHistory": [
+      {
+        "id": 1,
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+      },
+      {
+        "id": 2,
+        "question": "What is the capital of USA?",
+        "answer": "Washington DC"
+      },
+      {
+        "id": 3,
+        "question": "What is the capital of UK?",
+        "answer": "London"
+      },
+      {
+        "id": 4,
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+      }
+    ],
+    "questionsSelected": []
   },
   {
     "id": 5,
@@ -57,7 +149,30 @@
       "name": "Leanne Graham 3rd",
       "email": "leann.graham@gmail.com",
       "phone": "1-770-444-8031 x56442"
-    }
+    },
+    "questionsHistory": [
+      {
+        "id": 1,
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+      },
+      {
+        "id": 2,
+        "question": "What is the capital of USA?",
+        "answer": "Washington DC"
+      },
+      {
+        "id": 3,
+        "question": "What is the capital of UK?",
+        "answer": "London"
+      },
+      {
+        "id": 4,
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+      }
+    ],
+    "questionsSelected": [1]
   },
   {
     "id": 6,
@@ -69,6 +184,29 @@
       "name": "Leanne Graham 4th",
       "email": "leann.graham@gmail.com",
       "phone": "1-444-736-8031 x56442"
-    }
+    },
+    "questionsHistory": [
+      {
+        "id": 1,
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+      },
+      {
+        "id": 2,
+        "question": "What is the capital of USA?",
+        "answer": "Washington DC"
+      },
+      {
+        "id": 3,
+        "question": "What is the capital of UK?",
+        "answer": "London"
+      },
+      {
+        "id": 4,
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+      }
+    ],
+    "questionsSelected": [1, 2]
   }
 ]
